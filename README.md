@@ -26,7 +26,12 @@ You can install `SearchIt` like this:
 sudo git clone https://github.com/karthikuj/SearchIt.git
 ```
 
-2. run the `setup.py` file.
+2. Change the directory.
+```
+cd SearchIt/
+```
+
+3. run the `setup.py` file.
 ```
 sudo python3 setup.py install
 ```
