@@ -8,8 +8,8 @@
 
 <h4 align="center">Search multiple search engines through command line</h4>
 
+![searchit-github](https://user-images.githubusercontent.com/59091280/110793736-e087b100-826c-11eb-80c5-72fed57293fd.png)
 
-https://user-images.githubusercontent.com/59091280/110790020-6ead6880-8268-11eb-9b4c-8a53d9345fd9.mp4
 
 ### About SearchIt
 
@@ -45,12 +45,15 @@ searchit -y coldplay
 
 Search Engines supported:
 1. Google (Google, google, -g)
-2. Youtube (Youtube, youtube, yt, -y)
+2. Youtube (Youtube, youtube, -yt, yt, -y)
 3. Amazon (Amazon, amazon, -a)
 4. Facebook (Facebook, facebook, fb, -f) (you need to be logged in for this)
 5. Bing (Bing, bing, -b)
 6. Search directly in browser's taskbar (Taskbar, taskbar, -tb)
 7. Yandex (Yandex, yandex, -ya)
+
+##### NOTE
+This script won't run in `root` user.
 
 #### Contributors
 
