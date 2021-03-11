@@ -5,3 +5,5 @@
   SearchIt
   <br>
 </h1>
+
+<h4 align="center">Search multiple search engines through command line</h4>
