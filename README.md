@@ -8,7 +8,7 @@
 
 <h4 align="center">Search multiple search engines through command line</h4>
 
-![searchit-github](https://user-images.githubusercontent.com/59091280/110793884-0ad96e80-826d-11eb-95a6-84a726518155.png)
+![searchit-github](https://user-images.githubusercontent.com/59091280/110794174-60158000-826d-11eb-9da3-5082feb3848b.png)
 
 ### About SearchIt
 
