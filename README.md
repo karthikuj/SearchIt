@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/karthikuj/SearchIt"><img src="https://i.ibb.co/jh7pYvB/SearchIt.png" alt="Arjun"></a>
+  <a href="https://github.com/karthikuj/SearchIt"><img src="https://i.ibb.co/jh7pYvB/SearchIt.png" alt="SearchIt"></a>
   <br>
   SearchIt
   <br>
@@ -61,4 +61,4 @@ This script won't run in `root` user.
 
 #### Contributors
 
-Karthik U.J. <a href="https://www.instagram.com/5up3r541y4n/">@5up3r541y4n</a>
+Karthik U.J. <a href="https://www.instagram.com/5up3r541y4n/" target="_blank">@5up3r541y4n</a>
